@@ -1,0 +1,291 @@
+a:link {
+    color: black; /*#FF69B4;*/
+}
+
+/* visited link */
+a:visited {
+    color: black; /*#72007b;*/
+}
+
+/* mouse over link */
+a:hover {
+    color:black; /* #FF69B4;*/
+}
+
+/* selected link */
+a:active {
+    color:black; /*#72007b;*/
+}
+
+nav{
+    text-align: center;
+    background-image: url(../images/emoji.png);
+    /*background-image: url(../images/other_balloons.png);*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 30px;
+    margin-left:0;
+    margin-right:0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 10px;
+    padding: 0;
+    background-image: url(../images/emoji.png);
+    /*background-image: url(../images/other_balloons.png);*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+}
+
+.img-responsive{
+    display:block;
+    width: 100%;
+    height:auto;
+    margin:10px;
+}
+
+body{
+    color: black;
+}
+
+#padding{
+    background-image: url(../images/emoji3.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-left: 0px;
+    padding-right: 20px;
+    width: 100%;
+    height:600px;
+    margin-left:0;
+    margin-right:0;
+}
+
+#About{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    height:400px;
+    text-align: center;
+    background-color:#6bedec;
+/*    background-image: url(../images/other_balloons.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    font-size: 20px;
+    margin-left:0px;
+    margin-right:0px;
+    color:black;
+}
+
+#Hi{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 18px;
+    text-align: left;
+}
+
+#about2{
+
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: left;
+    font-size: 18px;
+    margin-right: -10px;
+    margin-left: 20px;
+}
+
+#About img{
+    float: left;
+    margin: 10 10 10px 10px;
+    height:250px;
+    width:250px;
+}
+/*#abt{
+    text-align: center;
+}*/
+
+#Projects{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+    background-image: url(../images/emoji.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:-10px;
+    margin-right:-10px;
+}
+
+#text{
+    padding-left: 100px;
+    padding-right: 200px;
+    text-align: center;
+}
+
+.projects2{
+    margin-left:10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    background-image: url(../images/emoji.png);
+/*    background-image: url(../images/other_balloons.png);*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    color:black;
+    font-weight: bold;
+}
+
+.projects2 .row img{
+    width:100%;
+    height: 320px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#Education{
+    text-align: center;
+    font-size: 20px;
+/*    background-color: #4ae4ff;*/
+    background-image: url(../images/emoji.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    margin-right:-40px;
+    margin-left:-10px;
+    padding-top: 20px;
+}
+
+
+#Education_list{
+    text-align: left;
+/*  margin-right:-40px;
+    margin-left:-10px;*/
+    padding-top:40px;
+    padding-left: 100px;
+    background-image: url(../images/emoji.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-color: #4ae4ff;
+    font-size: 16px;
+    padding-bottom: 10px;
+    margin-right:-20px;
+    margin-left:-10px;
+}
+
+
+#Resume{
+    padding-top: 40px;
+/*    padding-left:20px;
+    padding-right:20px;*/
+    width: 101%;
+    height:auto;
+    background-image: url(../images/emoji.png);
+/*    background-image: url(../images/background_balloons.png);*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 20px;
+    margin-right:-10px;
+    margin-left:-10px;
+}
+
+#resume_download{
+/*  background-image: url(../images/background_balloons.png);*/
+/*  background-image: url(../images/emojibottom.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color:#6bedec;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-right:-20px;
+    margin-left:-10px;
+    font-size: 20px;
+    color: black;
+}
+
+#Pics{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+    background-image: url(../images/emojibottom.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:-10px;
+    margin-right:-10px;
+}
+
+
+.specific{
+    margin-left:10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    background-image: url(../images/emojibottom.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.specific .row img{
+    width:100%;
+    height: auto;
+    margin-top: 0px;
+}
+
+#Contact{
+    padding-top: 60px;
+    padding-left:20px;
+    padding-right:20px;
+    width: 100%;
+    height:500px;
+    text-align: center;
+    background-image: url(../images/emojibottom.png);
+/*    background-image: url(../images/background_balloons.png);*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:20px;
+    font-color:black;
+}
+
+
+.section {
+    margin-top: -72px;
+    padding-top: 72px;
+}
+
